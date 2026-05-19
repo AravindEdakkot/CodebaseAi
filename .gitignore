@@ -1,0 +1,6 @@
+# Ignore the Python virtual environment
+.venv/
+.embedding_cache/
+venv/
+
+# Ignore local embedding caches and data weights
